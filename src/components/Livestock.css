@@ -1,0 +1,65 @@
+.live-main{
+    height: 100vh;
+    /* background-color: red; */
+}
+
+.top{
+    height: 20vh;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+}
+
+.bottom{
+    height: 20vh;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+}
+
+.male{
+    height: 20vh;
+    width: 20vw;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.female{
+    height: 20vh;
+    width: 20vw;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.khasi{
+    height: 20vh;
+    width: 20vw;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.piglets{
+    height: 20vh;
+    width: 20vw;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pig-buttons{
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pig-forms{
+    padding-left: 3rem;
+}
